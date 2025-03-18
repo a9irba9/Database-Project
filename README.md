@@ -23,7 +23,7 @@ A complete billing management system built using **PySide2** for the GUI, **MySQ
 
 ## Prerequisites
 Before you begin, ensure you have the following installed on your system:
-1. **Python 3.x**: The application is written in Python, so you need to have it installed. Download it [here](https://www.python.org/).
+1. **Python 3.10.10**: The application is written in Python, so you need to have it installed. Download it [here](https://www.python.org/).
 2. **MySQL**: Install and set up MySQL on your system. Follow instructions [here](https://dev.mysql.com/doc/).
 3. **Pip**: Ensure the Python package manager `pip` is installed.
 
