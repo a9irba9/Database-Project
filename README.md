@@ -33,5 +33,5 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/billing-app.git]
+git clone https://github.com/yourusername/billing-app.git
 cd billing-app
